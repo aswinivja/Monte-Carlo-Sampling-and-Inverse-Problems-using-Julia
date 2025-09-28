@@ -19,7 +19,4 @@ The project combines **theory, visualization, and hands-on simulation** to provi
 
 ##  Repository Contents
 - `monte-carlo-sampling.jl` → Main Pluto.jl notebook with interactive UI and visualizations.
-- Example plots include:
-  - Density evolution
-  - Acceptance vs. rejection history
-  - Gravity inversion data fitting
+
